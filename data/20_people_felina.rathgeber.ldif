@@ -1,0 +1,13 @@
+dn: cn=felina.rathgeber,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: felina.rathgeber
+sn: felina.rathgeber
+description: Human
+givenName: felina.rathgeber
+mail: felina.rathgeber@example.com
+ou: Intern
+uid: felina.rathgeber
+userPassword: {SSHA}Y3VLOyFvzbn3dfU1X2J0W9f5lmUSor3F

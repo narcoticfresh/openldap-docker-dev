@@ -1,0 +1,13 @@
+dn: cn=dorotea.klinge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: dorotea.klinge
+sn: dorotea.klinge
+description: Human
+givenName: dorotea.klinge
+mail: dorotea.klinge@example.com
+ou: Intern
+uid: dorotea.klinge
+userPassword: {SSHA}Y3VLOyFvzbn3dfU1X2J0W9f5lmUSor3F

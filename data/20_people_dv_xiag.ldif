@@ -1,0 +1,13 @@
+dn: cn=dv_xiag,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: dv_xiag
+sn: dv_xiag
+description: Human
+givenName: dv_xiag
+mail: dv_xiag@example.com
+ou: Intern
+uid: dv_xiag
+userPassword: {SSHA}Y3VLOyFvzbn3dfU1X2J0W9f5lmUSor3F

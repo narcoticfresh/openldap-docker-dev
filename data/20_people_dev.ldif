@@ -1,0 +1,13 @@
+dn: cn=dev,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: dev
+sn: dev
+description: Human
+givenName: dev
+mail: dev@example.com
+ou: Intern
+uid: dev
+userPassword: {SSHA}Y3VLOyFvzbn3dfU1X2J0W9f5lmUSor3F

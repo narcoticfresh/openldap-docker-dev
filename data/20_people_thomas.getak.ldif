@@ -1,0 +1,13 @@
+dn: cn=thomas.getak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: thomas.getak
+sn: thomas.getak
+description: Human
+givenName: thomas.getak
+mail: thomas.getak@example.com
+ou: Intern
+uid: thomas.getak
+userPassword: {SSHA}Y3VLOyFvzbn3dfU1X2J0W9f5lmUSor3F

@@ -1,0 +1,13 @@
+dn: cn=riccarda.geteone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: riccarda.geteone
+sn: riccarda.geteone
+description: Human
+givenName: riccarda.geteone
+mail: riccarda.geteone@example.com
+ou: Intern
+uid: riccarda.geteone
+userPassword: {SSHA}Y3VLOyFvzbn3dfU1X2J0W9f5lmUSor3F

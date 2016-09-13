@@ -1,0 +1,13 @@
+dn: cn=werner.dreher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: werner.dreher
+sn: werner.dreher
+description: Human
+givenName: werner.dreher
+mail: werner.dreher@example.com
+ou: Intern
+uid: werner.dreher
+userPassword: {SSHA}Y3VLOyFvzbn3dfU1X2J0W9f5lmUSor3F

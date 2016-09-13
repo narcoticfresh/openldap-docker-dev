@@ -1,0 +1,13 @@
+dn: cn=hans,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: hans
+sn: Hofer
+description: Human
+givenName: Hans
+mail: hans@example.com
+ou: Intern
+uid: hans
+userPassword: {SSHA}Y3VLOyFvzbn3dfU1X2J0W9f5lmUSor3F

@@ -1,0 +1,13 @@
+dn: cn=klaus.amann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: klaus.amann
+sn: klaus.amann
+description: Human
+givenName: klaus.amann
+mail: klaus.amann@example.com
+ou: Intern
+uid: klaus.amann
+userPassword: {SSHA}Y3VLOyFvzbn3dfU1X2J0W9f5lmUSor3F

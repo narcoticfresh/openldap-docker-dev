@@ -1,0 +1,13 @@
+dn: cn=huk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: huk
+sn: huk
+description: Human
+givenName: huk
+mail: huk@example.com
+ou: Intern
+uid: huk
+userPassword: {SSHA}Y3VLOyFvzbn3dfU1X2J0W9f5lmUSor3F
